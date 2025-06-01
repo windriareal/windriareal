@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Ateş</h1>
 
-<!--
-**windriareal/windriareal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1376661313270448279" alt="Discord Status" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=windriareal&label=Visitors&color=blue&style=flat" alt="Visitor Counter" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- 📚 Currently learning and exploring new technologies  
+- 💻 Passionate about software development and open-source  
+- 🎯 Always improving, one commit at a time  
+- ☕ Let's talk on Discord!
+
+---
+
+### 🛠️ Tools & Technologies
+
+- JavaScript
+- Node.js
+- Git & GitHub, VS Code  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=windriareal&show_icons=true&theme=radical" />
+</p>

@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ateş</h1>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1376661313270448279" alt="Discord Status" />
+  <img src="https://lanyard.cnrad.dev/api/1376661313270448279?theme=dark&bg=000000&animated=true&hideDiscriminators=true&borderRadius=15px" alt="My Discord Status"/>
 </p>
 
 <p align="center">
